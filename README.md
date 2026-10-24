@@ -1,0 +1,3 @@
+CO₂ Monitoring IoT System via Sigfox Network
+
+Developed a business analysis project concept for an IoT-based CO₂ monitoring system designed to help farmers monitor carbon dioxide levels and temperature in greenhouses and indoor farming environments. The proposed system features a user-friendly dashboard, local sensor data storage, cloud integration, and historical data visualisation to support data-driven decision-making. It also includes configurable threshold-based alerts via Gmail to notify farmers when CO₂ levels exceed predefined limits, enabling timely intervention and improved environmental monitoring.
